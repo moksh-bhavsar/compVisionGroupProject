@@ -1,4 +1,4 @@
-path: /Users/moke/Comp Vision/groupProject/compVisionGroupProject/road-sign-detection
+path: C:\Users\Maria\pythonCode\computerVision\finalProject\compVisionGroupProject\road-sign-detection
 train: images/train/ 
 val:  images/val/
 test: images/test/
